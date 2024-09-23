@@ -33,7 +33,7 @@ class Config:
             "measurement_processed": ["surgeon", "patient"]
         },
         REGIONS["sa"]: {
-            "calibration_monitoring": ["surgeon", "patient"],
+            "calibration_monitoring": ["surgeon",  "patient"],
             "measurement_processed": ["surgeon", "patient"]
         }
     }

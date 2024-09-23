@@ -1,6 +1,6 @@
 # Ector Project
 
-Ector is a data pipeline project that focuses on **data consolidation** and **descriptive analytics**. It processes data from the **Igraine** Gold layer (S1), applying a series of cleaning, transformation, and consolidation steps, before visualizing the results. The project follows a **modular pipeline structure**, where each component has a distinct role from data ingestion to visualization.
+Ector is a data pipeline project that focuses on **data consolidation** and **descriptive analytics**. It processes data from the **Igraine** Gold layer (S1), applying a series of cleaning, transformation, and consolidation steps, before visualizing the results. The project follows a **modular pipeline structure**, where each component has a distinct role from data ingestion to visualization
 
 ## Project Overview
 
